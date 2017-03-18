@@ -13,9 +13,9 @@ having a fill of material colors.
 I have found a great resource. Go <a href="https://www.w3schools.com/howto/howto_css_loader.asp">here.</a> Follow the instructions over there
 
 
-### Usage 
+### 用法 
 
-* Include the **MLoaders.css** or the minified version in `<head>` tag.
+* 包括该 **MLoaders.css** 或缩小版本 `<head>` 标签.
 
 ```html
   <head> 
@@ -23,10 +23,10 @@ I have found a great resource. Go <a href="https://www.w3schools.com/howto/howto
   </head>
   ```
   
-* Secondly, include the main class 'mloader' and any one class from the following mentioned classes :- 
+* 其次，包括主类'mloader'和来自下面提到的类中的任何一个类 :- 
   
   
-##### Bouncy 
+##### 弹性 
  ```html
    <div class="mloader bouncy bouncy-balls">
      <span></span>
@@ -34,11 +34,11 @@ I have found a great resource. Go <a href="https://www.w3schools.com/howto/howto
      <span></span>
    </div>
   ```
-##### Circle
+##### 圈
   ```html
   <div class="mloader circle c-red-500"></div>
   ```
-  * Classes of circle are :- 
+  * 圆的类是 :- 
     `c-red-500`
     `c-pink-500`
     `c-purple-500`
@@ -60,19 +60,19 @@ I have found a great resource. Go <a href="https://www.w3schools.com/howto/howto
     `c-black-500`
     
     
-##### Colorful Square
+##### 五颜六色的正方形
   ```html
   <div class="mloader s-colorful"></div>
   ```
     
-##### Spin Circle
+##### 旋转圈
   ```html
   <div class="mloader spin-circle">
     <span></span>
     <span></span>
   </div>
   ```
-##### Ring
+##### 环
   ```html
   <div class="mloader ring r-red-500"></div>
   ```
@@ -128,25 +128,25 @@ I have found a great resource. Go <a href="https://www.w3schools.com/howto/howto
     `s-black-500`
     
     
-##### Timer
+##### 定时器
   ```html
   <div class="mloader timer"></div>
   ```
-##### Dotted Circle
+##### 虚线圆
 ```html
   <div class="mloader circle-dot"></div>
   ```
-##### Ring Evolution
+##### 环演化
 ```html
   <div class="mloader e-ring"></div>
   ```
 
-##### Sticks
+##### 棍子
 ```html
   <div class="sticks"></div>
   ```
   
-##### Fill-Circle
+##### 填充圆
 ```html
   <div class="mloader fill-circle">
      <span></span>
@@ -159,7 +159,7 @@ I have found a great resource. Go <a href="https://www.w3schools.com/howto/howto
   </div>
   ```
   
-##### Google Loader
+##### 谷歌加载
 ```html
   <div class="mloader google">
     <div></div>
@@ -168,7 +168,7 @@ I have found a great resource. Go <a href="https://www.w3schools.com/howto/howto
     <div></div>
   </div>
   ```
-##### Double-Circle
+##### 双圈
 ```html
   <div class="mloader double-circle"></div>
 ```
@@ -205,14 +205,14 @@ I have found a great resource. Go <a href="https://www.w3schools.com/howto/howto
   <div class="oscillate"></div>
 ```
 
-##### Moving Squares
+##### 移动正方形
 ```html
   <div class="moving-square"></div>
 ```
 
 ### :bulb: Tip
 
-It is recommended to wrap the loader or the spinner div with another div so that you could center the wrapper div horizontally and vertically. 
+建议用另一个div包装加载器或旋转器div，以便可以水平和垂直地居中包装器div. 
 
   
  * Lastly, enjoy the loaders and spinners. As a token of appreciation, a **star** to this repository will help me to bring you more libraries in near future.
